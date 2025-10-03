@@ -1,2 +1,3 @@
-# medallion_project
-Test Exercise
+# Data and Analytics Project
+Test Exercise 
+
