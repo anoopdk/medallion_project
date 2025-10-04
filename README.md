@@ -1,5 +1,4 @@
 # Data and Analytics Project
-Test Exercise 
 
 This exercise is mainly to build a Medallion pipelines that sources data from csv files and goes through the proper raw, enriched and curated layers before it is comsumed by the business.
 
